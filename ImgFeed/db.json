@@ -1,0 +1,39 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+      "username": "flutebeach",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/4333/4333609.png",
+      "photo": "https://wallpaper.dog/large/20516065.jpg",
+      "caption": "#art #lake"
+    },
+    {
+      "id": 2,
+      "username": "stardust",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/3135/3135715.png",
+      "photo": "https://wallpaper.dog/large/20516068.jpg",
+      "caption": "#apls #nature #nighttime"
+    },
+    {
+      "id": 3,
+      "username": "creampeach",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/2922/2922510.png",
+      "photo": "https://wallpaper.dog/large/20516073.jpg",
+      "caption": "#sunrise #adventure"
+    },
+    {
+      "id": 4,
+      "username": "crackers",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/4128/4128176.png",
+      "photo": "https://wallpaper.dog/large/5449058.jpg",
+      "caption": "#illustration"
+    },
+    {
+      "id": 5,
+      "username": "toastowl",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/3011/3011270.png",
+      "photo": "https://wallpaper.dog/large/20516082.jpg",
+      "caption": "#sunset #beach"
+    }
+  ]
+}
